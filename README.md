@@ -42,24 +42,6 @@ I am an **Artificial Intelligence Engineer** and **Full-Stack Software Developer
 
 ---
 
-## 📁 Key Projects
-
-### 🤖 Artificial Intelligence & Machine Learning
-- **[Innovexis-AI](https://github.com/Arayz-Fawad/Innovexis-AI)** – AI and Machine Learning models & frameworks.
-- **[ngram-diary-generator](https://github.com/Arayz-Fawad/ngram-diary-generator)** – Natural Language Processing (NLP) diary generator powered by n-gram language modeling.
-
-### ⚡ Distributed Systems & Networking
-- **[Raft-Based-Key-Value-Store](https://github.com/Arayz-Fawad/Raft-Based-Key-Value-Store)** – Distributed fault-tolerant key-value store powered by the Raft Consensus Algorithm.
-- **[distributed-ledger-with-sharding](https://github.com/Arayz-Fawad/distributed-ledger-with-sharding)** – High-throughput distributed ledger architecture with dataset sharding.
-- **[Sever-Client-system-in-GO](https://github.com/Arayz-Fawad/Sever-Client-system-in-GO)** – Concurrent client-server networking system built in Golang.
-
-### 🌐 Full-Stack & Web3 Solutions
-- **[web3-fintech-prototype](https://github.com/Arayz-Fawad/web3-fintech-prototype)** – Web3 fintech application prototype with decentralized smart contract capabilities.
-- **[productivity-manager](https://github.com/Arayz-Fawad/productivity-manager)** – Full-stack web application designed for workflow and task productivity tracking.
-- **[Al-Falah](https://github.com/Arayz-Fawad/Al-Falah)** | **[india-bazaar-grocery](https://github.com/Arayz-Fawad/india-bazaar-grocery)** | **[Bismillah_food](https://github.com/Arayz-Fawad/Bismillah_food)** | **[Yawk_Digital2](https://github.com/Arayz-Fawad/Yawk_Digital2)** – Modern web applications and digital service portals.
-
----
-
 ## 📊 GitHub Statistics
 
 <p align="center">
